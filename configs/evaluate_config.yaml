@@ -1,0 +1,7 @@
+# configs/evaluate_config.yaml
+
+model:
+  load_path: 'models/downscaling_model.h5'
+
+data:
+  test_data_path: 'data/processed/test_data.nc'

@@ -1,0 +1,24 @@
+# configs/data_config.yaml
+
+data_paths:
+  raw_cmip6: 'data/raw/cmip6/'
+  raw_era5: 'data/raw/era5/'
+  processed: 'data/processed/'
+
+cmip6:
+  models:
+    - 'Model1'
+    - 'Model2'
+  variables:
+    - 'tas'  # Near-surface air temperature
+    - 'pr'   # Precipitation
+  experiments:
+    - 'historical'
+    - 'ssp245'
+  time_range: '1980-2020'
+
+era5:
+  variables:
+    - '2m_temperature'
+    - 'total_precipitation'
+  time_range: '1980-2020'

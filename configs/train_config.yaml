@@ -1,0 +1,19 @@
+# configs/train_config.yaml
+
+training:
+  batch_size: 32
+  epochs: 50
+  learning_rate: 0.001
+  validation_split: 0.2
+  shuffle: True
+
+model:
+  input_shape:
+    height: 64
+    width: 64
+    channels: 5  # Number of input features
+  save_path: 'models/downscaling_model.h5'
+
+data:
+  training_data_path: 'data/processed/training_data.nc'
+  validation_data_path: 'data/processed/validation_data.nc'
