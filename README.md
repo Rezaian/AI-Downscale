@@ -295,7 +295,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or assistance, please contact:
 
-- **Your Name**
 - **Email**: [Rezaian@ut.ac.ir](mailto:rezaian@ut.ac.ir)
 - **GitHub**: [Rezaian](https://github.com/Rezaian)
 
