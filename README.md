@@ -287,7 +287,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - **Data Providers**:
   - CMIP6 Project: For providing GCM outputs.
   - Copernicus Climate Change Service: For providing ERA5 reanalysis data.
-- **Research Inspiration**: Based on the project proposal "AI-Downscale: Machine Learning Approaches for High-Resolution Regional Climate Projections" by [Principal Investigator's Name].
+- **Research Inspiration**: Based on the project proposal "AI-Downscale: Machine Learning Approaches for High-Resolution Regional Climate Projections".
 
 ---
 
